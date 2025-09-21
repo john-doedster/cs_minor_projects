@@ -1,0 +1,11 @@
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\bin\Debug\LifeSimulatorGame.exe.config
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\bin\Debug\LifeSimulatorGame.exe
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\bin\Debug\LifeSimulatorGame.pdb
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.csproj.AssemblyReference.cache
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.Form1.resources
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.Properties.Resources.resources
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.csproj.GenerateResource.cache
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.csproj.CoreCompileInputs.cache
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.exe
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.pdb
+C:\Users\lalip\Desktop\Projects\cs_projects\LifeSimulatorGame\obj\Debug\LifeSimulatorGame.exe.config
