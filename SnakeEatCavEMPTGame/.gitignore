@@ -1,0 +1,18 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.userosscache
+*.csproj.user
+
+# Файлы резервных копий
+*.backup
+*.tmp
+
+# Файлы пакетов NuGet
+packages/
+*.nupkg
