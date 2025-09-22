@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5E0503E-E2AE-428B-9C94-7B9300EFA022}|LifeSimulatorGame.csproj|C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5E0503E-E2AE-428B-9C94-7B9300EFA022}|LifeSimulatorGame.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E0503E-E2AE-428B-9C94-7B9300EFA022}|LifeSimulatorGame.csproj|c:\\users\\lalip\\desktop\\projects\\cs_projects\\lifesimulatorgame\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E5E0503E-E2AE-428B-9C94-7B9300EFA022}|LifeSimulatorGame.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-22T13:52:06.438Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +48,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAwwLcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T15:11:22.409Z",
               "EditorCaption": ""
@@ -46,7 +62,8 @@
               "ToolTip": "C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T14:53:30.161Z"
+              "WhenOpened": "2025-09-21T14:53:30.161Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -56,9 +73,10 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\lalip\\Desktop\\Projects\\cs_projects\\LifeSimulatorGame\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAiwFgAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwFgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T14:48:25.183Z"
+              "WhenOpened": "2025-09-21T14:48:25.183Z",
+              "EditorCaption": ""
             }
           ]
         }

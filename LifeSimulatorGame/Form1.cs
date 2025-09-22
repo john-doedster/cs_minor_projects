@@ -114,35 +114,6 @@ namespace LifeSimulatorGame
             nudDensity.Enabled = true; 
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            NextGeneration();
-        }
-
-        private void bStart_Click(object sender, EventArgs e)
-        {
-            StartGame();
-        }
-
-        private void bStop_Click(object sender, EventArgs e)
-        {
-            StopGame();
-        }
-
-        private void splitContainer1_SplitterMoved(object sender, SplitterEventArgs e)
-        {
-
-        }
-
-        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
@@ -179,6 +150,37 @@ namespace LifeSimulatorGame
         private void Form1_Load(object sender, EventArgs e)
         {
             Text = $"Форм жизни: {currentGeneration}";
+        }
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            NextGeneration();
+        }
+
+
+
+        private void bStart_Click(object sender, EventArgs e)
+        {
+            StartGame();
+        }
+
+        private void bStop_Click(object sender, EventArgs e)
+        {
+            StopGame();
+        }
+
+        private void splitContainer1_SplitterMoved(object sender, SplitterEventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
